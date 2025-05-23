@@ -1,3 +1,4 @@
 *.weights filter=lfs diff=lfs merge=lfs -text
 yolov3-from-opencv-object-detection/model.weights filter=lfs diff=lfs merge=lfs -text
 yolov3-from-opencv-object-detection/model.weights filter=lfs diff=lfs merge=lfs -text
+yolov3-from-opencv-object-detection/model.weights filter=lfs diff=lfs merge=lfs -text
